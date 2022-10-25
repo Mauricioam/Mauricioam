@@ -31,4 +31,4 @@ I perform well working in groups making the best contributions to reach the prop
 <h1><img src="https://github.com/Mauricioam/Mauricioam/blob/main/Busts%20in%20Silhouette.png" width="25" height="25"/> Socials</h1>
 
 <a href="https://www.linkedin.com/in/mauricio-agustin-murdoch-b1658073/"><img src="https://github.com/Mauricioam/Mauricioam/blob/main/pngwing.com%20(1).png"  width="50" height="50"/></a>
-
+<a href="https://twitter.com/maurimurdoch"><img src="https://github.com/Mauricioam/Mauricioam/blob/main/pngwing.com%20(3).png"  width="60" height="60"/></a>
