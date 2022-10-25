@@ -12,7 +12,7 @@ I perform well working in groups making the best contributions to reach the prop
  <h4>Single page aplication</h4>
  <p>A web for serching and filter dogs by breeds, size and temperament. Also can create your own breed</p>
  <a href="https://github.com/Mauricioam/Proyecto_Henry_PI_Dogs">GitHub repo</a>
-
+ <hr/>
  <h3>TechStore</h3>
  
  <h4>E-commerce</h4>
