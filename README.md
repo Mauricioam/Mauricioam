@@ -7,13 +7,7 @@ I perform well working in groups making the best contributions to reach the prop
 <img src="https://github.com/Mauricioam/Mauricioam/blob/main/Banner%20de%20YouTube%20Gamer%20Supervivencia%20Negro%20y%20Amarillo%20reducido%202.png"/>
  <h1><img src="https://github.com/Mauricioam/Mauricioam/blob/main/Card%20File%20Box.png" width="25" height="25"/> Proyects</h1> 
  
- <h3>Henry Dogs</h3>
- 
- <h4>Single page aplication</h4>
- <p>A web for serching and filter dogs by breeds, size and temperament. Also can create your own breed</p>
- <a href="https://github.com/Mauricioam/Proyecto_Henry_PI_Dogs">GitHub repo</a>
- <hr/>
- <h3>TechStore</h3>
+  <h3>TechStore</h3>
  
  <h4>E-commerce</h4>
  <p>An e-commerce for the sale of technological components.Also can upload items for sale as a manager of the web.</p>
@@ -27,6 +21,15 @@ I perform well working in groups making the best contributions to reach the prop
  <li><a href="https://github.com/IgnacioOrellana">Iganacio Orellana </a></li>
  <li><a href="https://github.com/Jander1016">Jander Gomez </a></li>
 </u>
+
+ <hr/>
+ 
+ <h3>Henry Dogs</h3>
+ 
+ <h4>Single page aplication</h4>
+ <p>A web for serching and filter dogs by breeds, size and temperament. Also can create your own breed</p>
+ <a href="https://github.com/Mauricioam/Proyecto_Henry_PI_Dogs">GitHub repo</a>
+
 
 <h1><img src="https://github.com/Mauricioam/Mauricioam/blob/main/Busts%20in%20Silhouette.png" width="25" height="25"/> Socials</h1>
 
