@@ -11,7 +11,7 @@ I perform well working in groups making the best contributions to reach the prop
  
  <h4>E-commerce</h4>
  <p>An e-commerce for the sale of technological components.Also can upload items for sale as a manager of the web.</p>
- <a href="https://techstore-ruby.vercel.app/">Web-site</a>
+ <a href="https://github.com/ricardoyegros/Techstore">Repo (refactoring) </a>
  <h4>Colaborators</h4>
  <ul>
  <li><a href="https://github.com/MiqueasLedesma">Miqueas Ledesma </a></li>
